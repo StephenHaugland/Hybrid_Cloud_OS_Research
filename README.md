@@ -7,4 +7,4 @@ Topics covered in this paper include:
 * Analysis of Top Cloud Service Providers
 * Conclusions and Future Research
 
-###### Authors: Stephen Haugland and Travis Hererra
+###### Authors: Stephen Haugland and Travis Herrera
